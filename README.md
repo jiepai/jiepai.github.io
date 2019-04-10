@@ -35,6 +35,12 @@
 the mass
 <audio src="https://qixi.wodemo.net/down/20190410/107212/%E5%BE%B7%E6%84%8F%E5%BF%97%E9%97%AA%E7%94%B5%E9%83%A8%E9%98%9F%E8%BF%9B%E8%A1%8C%E6%9B%B2.mp3" loop="3" controls="controls"></audio>
 
+牢不可破的联盟
+<audio src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Soviet_Union_national_anthem_%28instrumental%29%2C_1977.oga" controls="controls"></audio>
+
+二胡 梁山伯与祝英台，这曲子听起来是会醉的
+<audio src="http://music.zhongfox.com/%E4%BA%8C%E8%83%A1%E5%8D%8F%E5%A5%8F%E6%9B%B2%E3%80%8A%E6%A2%81%E7%A5%9D%E3%80%8B%E5%85%A8%E6%9B%B2%EF%BC%88%E4%BA%8C%E8%83%A1%E6%BC%94%E5%A5%8F%EF%BC%9A%E9%82%B5%E7%90%B3%20%EF%BC%8C%E6%8C%87%E6%8C%A5%EF%BC%9A%E4%BD%95%E5%8D%A0%E8%B1%AA%EF%BC%89.m4a" controls="controls"></audio>
+
 注册域名推荐用[namesilo](https://bit.ly/lnikym)，1美元优惠码：webcom
 
 国外主机推荐用[hawk](http://bit.ly/2KnCb5J)或者[siteground](http://bit.ly/2Iqd2ob)
