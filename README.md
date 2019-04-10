@@ -1,7 +1,5 @@
 下雨了，抱着猫，坐在房檐下，听雨声，看雨水打着瓦片上的野草
 
-![下雨了，轻音乐](https://raw.githubusercontent.com/jiepai/jiepai.github.io/master/0.jpg "听雨")
-
 下雨了
 <audio src="https://www.rainymood.com/audio1110/0.m4a" controls="controls"></audio>
 
@@ -38,8 +36,10 @@ the mass
 牢不可破的联盟
 <audio src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Soviet_Union_national_anthem_%28instrumental%29%2C_1977.oga" controls="controls"></audio>
 
-二胡 梁山伯与祝英台，这曲子听起来是会醉的
+二胡 梁山伯与祝英台，这曲子听起来是会醉的，可配合第一个雨声
 <audio src="http://music.zhongfox.com/%E4%BA%8C%E8%83%A1%E5%8D%8F%E5%A5%8F%E6%9B%B2%E3%80%8A%E6%A2%81%E7%A5%9D%E3%80%8B%E5%85%A8%E6%9B%B2%EF%BC%88%E4%BA%8C%E8%83%A1%E6%BC%94%E5%A5%8F%EF%BC%9A%E9%82%B5%E7%90%B3%20%EF%BC%8C%E6%8C%87%E6%8C%A5%EF%BC%9A%E4%BD%95%E5%8D%A0%E8%B1%AA%EF%BC%89.m4a" controls="controls"></audio>
+
+![下雨了，轻音乐](https://raw.githubusercontent.com/jiepai/jiepai.github.io/master/0.jpg "听雨")
 
 注册域名推荐用[namesilo](https://bit.ly/lnikym)，1美元优惠码：webcom
 
