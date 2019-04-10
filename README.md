@@ -1,5 +1,7 @@
 下雨了，抱着猫，坐在房檐下，听雨声，看雨水打着瓦片上的野草
 
+<img src="https://raw.githubusercontent.com/jiepai/jiepai.github.io/master/0.jpg" width = "400" height = "306" alt="下雨了，听音乐" align=center />
+
 下雨了
 <audio src="https://www.rainymood.com/audio1110/0.m4a" controls="controls"></audio>
 
@@ -15,8 +17,7 @@
 <br>注册域名推荐用[namesilo](https://bit.ly/lnikym)，1美元优惠码：webcom
 <br>国外主机推荐用[hawk](http://bit.ly/2KnCb5J)或者[siteground](http://bit.ly/2Iqd2ob)
 <br>大陆好用的v/pn，[express](http://bit.ly/lnikpre)或[vypr](http://bit.ly/lnikvyr)，30天内可退款
-<br>
-<img src="https://raw.githubusercontent.com/jiepai/jiepai.github.io/master/0.jpg" width = "400" height = "306" alt="下雨了，听音乐" align=center />
+
 <br>
 <!-- AddToAny BEGIN -->
 <div>
