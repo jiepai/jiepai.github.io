@@ -29,11 +29,17 @@
 夜里的蟋蟀
 <audio src="https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-audio-hero/audio_hero_NightAmbienceCalm%20PE011801.mp3" loop="loop" controls="controls"></audio>
 
-<br>注册域名推荐用[namesilo](https://bit.ly/lnikym)，1美元优惠码：webcom
+苏维埃进行曲
+<audio src="https://s.wodemo.net/puzzle?fid=107219&return_to=https%3A%2F%2Fqixi.wodemo.net%2Fdown%2F20190410%2F107219%2F%25E8%258B%258F%25E7%25BB%25B4%25E5%259F%2583%25E8%25BF%259B%25E8%25A1%258C%25E6%259B%25B2.mp3" loop="3" controls="controls"></audio>
 
-<br>国外主机推荐用[hawk](http://bit.ly/2KnCb5J)或者[siteground](http://bit.ly/2Iqd2ob)
+the mass
+<audio src="https://s.wodemo.net/puzzle?fid=107212&return_to=https%3A%2F%2Fqixi.wodemo.net%2Fdown%2F20190410%2F107212%2F%25E5%25BE%25B7%25E6%2584%258F%25E5%25BF%2597%25E9%2597%25AA%25E7%2594%25B5%25E9%2583%25A8%25E9%2598%259F%25E8%25BF%259B%25E8%25A1%258C%25E6%259B%25B2.mp3" loop="3" controls="controls"></audio>
 
-<br>在大陆好用的v/pn，[express](http://bit.ly/lnikpre)或[vypr](http://bit.ly/lnikvyr)，30天内可退款
+注册域名推荐用[namesilo](https://bit.ly/lnikym)，1美元优惠码：webcom
+
+国外主机推荐用[hawk](http://bit.ly/2KnCb5J)或者[siteground](http://bit.ly/2Iqd2ob)
+
+在大陆好用的v/pn，[express](http://bit.ly/lnikpre)或[vypr](http://bit.ly/lnikvyr)，30天内可退款
 
 <!-- AddToAny BEGIN -->
 <div>
