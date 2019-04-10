@@ -18,6 +18,15 @@
 大雨磅礴
 <audio src="https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-lukas-tvrdon/lukas_tvrdon_rain_heavy_diifused_noise_and_high_tone_drips_on_concrete_bali_indonesia_001.mp3" controls="controls"></audio>
 
+小溪静静流
+<audio src="https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-kedr-sfx/kedr_sfx_hydrophone_stream_forest_streamlet_medium_gurgling.mp3" loop="loop" controls="controls"></audio>
+
+丛林雀语
+<audio src="https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-free-to-use-sounds/ftus_forest_amb_short_birds_distant_river_cat_tien_national_park_vietnam_570.mp3" loop="loop" controls="controls"></audio>
+
+夜里的蟋蟀
+<audio src="https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-audio-hero/audio_hero_NightAmbienceCalm%20PE011801.mp3" loop="loop" controls="controls"></audio>
+
 <br>注册域名推荐用[namesilo](https://bit.ly/lnikym)，1美元优惠码：webcom
 <br>国外主机推荐用[hawk](http://bit.ly/2KnCb5J)或者[siteground](http://bit.ly/2Iqd2ob)
 <br>大陆好用的v/pn，[express](http://bit.ly/lnikpre)或[vypr](http://bit.ly/lnikvyr)，30天内可退款
