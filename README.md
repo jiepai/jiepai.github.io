@@ -30,10 +30,10 @@
 <audio src="https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-audio-hero/audio_hero_NightAmbienceCalm%20PE011801.mp3" loop="loop" controls="controls"></audio>
 
 苏维埃进行曲
-<audio src="https://s.wodemo.net/puzzle?fid=107219&return_to=https%3A%2F%2Fqixi.wodemo.net%2Fdown%2F20190410%2F107219%2F%25E8%258B%258F%25E7%25BB%25B4%25E5%259F%2583%25E8%25BF%259B%25E8%25A1%258C%25E6%259B%25B2.mp3" loop="3" controls="controls"></audio>
+<audio src="https://qixi.wodemo.net/down/20190410/107219/%E8%8B%8F%E7%BB%B4%E5%9F%83%E8%BF%9B%E8%A1%8C%E6%9B%B2.mp3" loop="3" controls="controls"></audio>
 
 the mass
-<audio src="https://s.wodemo.net/puzzle?fid=107212&return_to=https%3A%2F%2Fqixi.wodemo.net%2Fdown%2F20190410%2F107212%2F%25E5%25BE%25B7%25E6%2584%258F%25E5%25BF%2597%25E9%2597%25AA%25E7%2594%25B5%25E9%2583%25A8%25E9%2598%259F%25E8%25BF%259B%25E8%25A1%258C%25E6%259B%25B2.mp3" loop="3" controls="controls"></audio>
+<audio src="https://qixi.wodemo.net/down/20190410/107212/%E5%BE%B7%E6%84%8F%E5%BF%97%E9%97%AA%E7%94%B5%E9%83%A8%E9%98%9F%E8%BF%9B%E8%A1%8C%E6%9B%B2.mp3" loop="3" controls="controls"></audio>
 
 注册域名推荐用[namesilo](https://bit.ly/lnikym)，1美元优惠码：webcom
 
