@@ -12,6 +12,12 @@
 国际歌
 <audio src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Internationale.ogg" volume="0.1;" loop="loop" controls="controls"></audio>
 
+雨滴落在雨伞上
+<audio src="https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-lukas-tvrdon/lukas_tvrdon_rain_heavy_on_umbrella_and_concrete_with_thunders_kuala_lumpur_malaysia_010.mp3" controls="controls"></audio>
+
+大雨磅礴
+<audio src="https://www.zapsplat.com/wp-content/uploads/2015/sound-effects-lukas-tvrdon/lukas_tvrdon_rain_heavy_diifused_noise_and_high_tone_drips_on_concrete_bali_indonesia_001.mp3" controls="controls"></audio>
+
 <br>注册域名推荐用[namesilo](https://bit.ly/lnikym)，1美元优惠码：webcom
 <br>国外主机推荐用[hawk](http://bit.ly/2KnCb5J)或者[siteground](http://bit.ly/2Iqd2ob)
 <br>大陆好用的v/pn，[express](http://bit.ly/lnikpre)或[vypr](http://bit.ly/lnikvyr)，30天内可退款
