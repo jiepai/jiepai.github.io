@@ -45,7 +45,7 @@ the mass
 
 国外主机推荐用[hawk](http://bit.ly/2KnCb5J)或者[siteground](http://bit.ly/2Iqd2ob)
 
-在大陆好用的v/pn，[express](http://bit.ly/lnikpre)或[vypr](http://bit.ly/lnikvyr)，30天内可退款
+google，[express](http://bit.ly/lnikpre)或[vypr](http://bit.ly/lnikvyr)，30天内可退款
 
 <!-- AddToAny BEGIN -->
 <div>
